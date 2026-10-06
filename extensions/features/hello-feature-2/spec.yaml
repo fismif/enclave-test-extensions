@@ -1,0 +1,4 @@
+schemaVersion: "1"
+kind: mixin
+name: hello-feature-2
+description: Hello feature 2
